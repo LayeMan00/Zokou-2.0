@@ -1,0 +1,26 @@
+The default line height has been increased for improved accessibility. You can choose to enable a more compact line height from the view settings menu.
+
+‎exemple_de_set.env  ‎set.env
++6
+-4
+Original file line number	Diff line number	Diff line change
+@@ -1,13 +1,15 @@
+NOM_OWNER="FedoRA"
+PREFIXE="~"
+NOM_OWNER="LayeMan"
+PREFIXE="#"
+SESSION_ID = "Z-O-K-O-U_MD-AnnetteStout"
+MODE_PUBLIC='non'
+LECTURE_AUTO_STATUS="non"
+TELECHARGER_AUTO_STATUS="oui"
+TELECHARGER_AUTO_STATUS="non"
+NOM_BOT= "Zokou 2.0"
+LIENS_MENU= "https://static.animecorner.me/2023/08/op2.jpg"
+NUMERO_OWNER= "22891733300"
+ETAT="1"
+DATABASE_URL= ""
+WARN_COUNT= ""
+STARTING_BOT_MESSAGE="oui"
+STARTING_BOT_MESSAGE="oui"
+ANTI_VUE_UNIQUE-oui
+HEROKU-non
